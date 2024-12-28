@@ -187,7 +187,7 @@ Méthode : DELETE
 
 ## Tests avec Postman ou Insomnia
 
-Importez la collection Postman fournie (si disponible) ou configurez manuellement les endpoints.
+configurez manuellement les endpoints.
 
 Testez chaque endpoint avec les données appropriées et le token JWT.
 
