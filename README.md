@@ -155,13 +155,13 @@ Copier le code
 
 Endpoint : /api/articles
 
-Méthode : GET
+# Méthode : GET
 
 Mettre à jour un article
 
 Endpoint : /api/articles/{id}
 
-Méthode : PUT
+# Méthode : PUT
 
 Exemple de JSON :
 
