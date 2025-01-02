@@ -8,7 +8,7 @@ Composer
 
 Symfony CLI (optionnel)
 
-MySQL ou un autre serveur de base de données
+MySQL
 
 Postman ou Insomnia pour tester l'API
 
